@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+	<book id="0001">
+		<title>Figuring</title>
+		<author>Maria Popova</author>
+		<description>Figuring explores the complexities of love and the human search for truth and meaning through the interconnected lives of several historical figures across four centuries - beginning with the astronomer Johannes Kepler, who discovered the laws of planetary motion, and ending with the marine biologist and author Rachel Carson, who catalysed the environmental movement. Stretching between these figures is a cast of artists, writers, and scientists - mostly women, mostly queer - whose public contribution has risen out of their unclassifiable and often heartbreaking private relationships to change the way we understand, experience and appreciate the universe. Among them are the astronomer Maria Mitchell, who paved the way for women in science; the sculptor Harriet Hosmer, who did the same in art; the journalist and literary critic Margaret Fuller, who sparked the feminist movement; and the poet Emily Dickinson. Emanating from these lives are larger questions about the measure of a good life and what it means to leave a lasting mark of betterment on an imperfect world: Are achievement and acclaim enough for happiness? Is genius? Is love? Weaving through the narrative is a set of peripheral figures - Ralph Waldo Emerson, Charles Darwin, Elizabeth Barrett Browning, Herman Melville, Frederick Douglass, Nathaniel Hawthorne and Walt Whitman - and a tapestry of themes spanning music, feminism, the history of science, the rise and decline of religion, and how the intersection of astronomy, poetry and Transcendentalist philosophy fomented the environmental movement.</description>
+		<price>19.71</price>
+		<product_details>
+			<format>
+				<type>Hardback</type>
+				<pages>592</pages> 
+			</format>
+			<dimensions>162 x 240 x 48mm</dimensions>
+			<weight>907</weight>
+			<publication_date>07 Feb 2019</publication_date>
+			<publisher>Canongate Books Ltd</publisher>
+			<publication_city>Edinburgh, United Kingdom</publication_city>
+			<language>English</language>
+			<edition_statement>Main</edition_statement>
+			<ISBN10>1786897245</ISBN10>
+			<ISBN13>9781786897244</ISBN13>
+			<bestsellers_rank>66</bestsellers_rank>
+		</product_details>
+		<rating>3.18</rating>
+		<votes>100</votes>
+	</book>
+	<book id="0002">
+		<title>Strokes of Genius 10 : Inspiring Subjects</title>
+		<author>Rachel Rubin Worlk</author>
+		<description>Celebrating the best drawings by contemporary artists, the Strokes of Genius series follows the beautiful, ongoing story of contemporary drawing through the work and words of some of today's top artists. Focusing on the theme "Inspiring Subjects," this thoughtfully curated 10th edition features the artists' most compelling subject matter. Artists and art lovers alike are sure to be inspired by the resulting energy and expressiveness showcased on these pages. 127 modern-day masterpieces in charcoal, pencil, pastel, colored pencil, scratchboard, pen and ink, and more. A breathtaking diversity of styles and approaches. Comments from the artists offer fresh-from-the-studio advice, insights, and anecdotes not found anywhere else.</description>
+		<price>33.01</price>
+		<product_details>
+			<format>
+				<type>Hardback</type>
+				<pages>144</pages> 
+			</format>
+			<dimensions>229 x 305 x 17.78mm</dimensions>
+			<weight>1133.98</weight>
+			<publication_date>06 Nov 2018</publication_date>
+			<publisher>F&amp;W Publications Inc</publisher>
+			<publication_city>Ohio, United States</publication_city>
+			<language>English</language>
+			<edition_statement></edition_statement>
+			<ISBN10>1440352410</ISBN10>
+			<ISBN13>9781440352416</ISBN13>
+			<bestsellers_rank>55940</bestsellers_rank>
+		</product_details>
+		<rating>1</rating>
+		<votes>10</votes>
+	</book>
+	<book id = "0003">
+        <title>To Kill A Mockingbird : 50th Anniversary Edition</title>
+        <author>Harper Lee</author>
+        <description>'Shoot all the bluejays you want, if you can hit 'em, but remember it's a sin to kill a mockingbird.' \nA lawyer's advice to his children as he defends the real mockingbird of Harper Lee's classic novel - a black man charged with the rape of a white girl. Through the young eyes of Scout and Jem Finch, Harper Lee explores with exuberant humour the irrationality of adult attitudes to race and class in the Deep South of the 1930s. The conscience of a town steeped in prejudice, violence and hypocrisy is pricked by the stamina of one man's struggle for justice. But the weight of history will only tolerate so much.
+        \nTo Kill a Mockingbird is a coming-of-age story, an anti-racist novel, a historical drama of the Great Depression and a sublime example of the Southern writing tradition. </description>
+        <price>8.21</price>
+        <product_details>
+            <format>
+				<type>Paperback</type>
+				<pages>320</pages> 
+			</format>
+            <dimensions>110 x 165 x 20mm</dimensions>
+            <weight>171</weight>
+            <publication_date>17 Jun 2015</publication_date>
+            <publisher>Cornerstone</publisher>
+            <publication_city>London, United </publication_city>
+            <language>English</language>
+            <edition_statement>The 50th Anniversary edition</edition_statement>
+            <ISBN10>0099549484</ISBN10>
+            <ISBN13>9780099549482</ISBN13>
+            <bestsellers_rank>83</bestsellers_rank>
+        </product_details>
+        <rating>4.26</rating>
+        <votes>1000</votes>
+    </book>
+    <book id="0004">
+        <title>Am I Normal Yet?</title>
+        <author>Holly Bourne</author>
+        <description>All Evie wants is to be normal. And now that she's almost off her meds and at a new college where no one knows her as the-girl-who-went-nuts, there's only one thing left to tick off her list...But relationships can mess with anyone's head - something Evie's new friends Amber and Lottie know only too well. The trouble is, if Evie won't tell them her secrets, how can they stop her making a huge mistake?</description>
+        <price>8.21</price>
+        <product_details>
+            <format>
+				<type>Paperback</type>
+				<pages>448</pages> 
+			</format>
+            <dimensions>132 x 198 x 28mm</dimensions>
+            <weight>364</weight>
+            <publication_date>07 Jun 2018</publication_date>
+            <publisher>Usborne Publishing Ltd</publisher>
+            <publication_city>London, United</publication_city>
+            <language>English</language>
+            <edition_statement></edition_statement>
+            <ISBN10>1409590305</ISBN10>
+            <ISBN13>9781409590309</ISBN13>
+            <bestsellers_rank>7197</bestsellers_rank>
+        </product_details>
+        <rating>4.27</rating>
+        <votes>1569</votes>
+    </book>
+    <book id="0005">
+	    <title>The Best American Infographics</title>
+	    <author>Maria Popova</author>
+		<description>The most creative and effective data visualizations from the past year, edited by Brain Pickings creator Maria Popova</description>
+		<price>17.43</price>
+		<product_details>
+			<format>
+				<type>Paperback</type>
+				<pages>160</pages> 
+			</format>
+			<dimensions>221 x 290 x 13mm</dimensions>
+			<weight>794</weight>
+			<publication_date>06 Oct 2015</publication_date>
+			<publisher>Mariner Books</publisher>
+			<publication_city>Hong Kong</publication_city>
+			<language>English</language>
+			<edition_statement>2015 ed.</edition_statement>
+			<ISBN10> 0544542703</ISBN10>
+			<ISBN13> 9780544542709</ISBN13>
+			<bestsellers_rank>341970</bestsellers_rank>
+		</product_details>
+		<rating>4.11</rating>
+		<votes>159</votes>
+	</book>
+</catalog>
